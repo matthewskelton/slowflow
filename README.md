@@ -25,4 +25,4 @@ Artisitic creativity generally does not use a linear process but something more 
 
 ## Palliative care
 
-Ideas from TT are being used in many healthcare contexts, especially emergency care, but [end-of-life care (aka palliative care)](https://www.nhs.uk/conditions/end-of-life-care/what-it-involves-and-when-it-starts/) is possibly less in need of fast flow approaches because the changes needed are minimal. 
+Ideas from [Team Topologies](https://teamtopologies.com/) are being used in many healthcare contexts, especially emergency care, but [end-of-life care (aka palliative care)](https://www.nhs.uk/conditions/end-of-life-care/what-it-involves-and-when-it-starts/) is possibly less in need of fast flow approaches because the changes needed are minimal. 
