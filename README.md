@@ -1,2 +1,1 @@
-# slowflow
-Contexts where fast flow might not be suitable. #fastflow 
+# Slow flow - contexts where fast flow might not be suitable. #fastflow 
