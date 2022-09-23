@@ -13,7 +13,7 @@ _How to contribute: add a topic to the bulleted list and a corresponding subhead
 
 ## Research & Development (R&D)
 
-R&D is concerned with discovery and unknown aspects of a domain, so it's difficult to even know what the domain really contains. If the domain is still unknown, it;s difficult to align to streams of change in the domain.
+R&D is concerned with discovery and unknown aspects of a domain, so it's difficult to even know what the domain really contains. If the domain is still unknown, it's difficult to align to streams of change in the domain.
 
 ## Policy formation
 
