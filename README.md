@@ -1,6 +1,6 @@
 # Slow flow - contexts where fast flow might not be suitable. #fastflow 
 
-The ideas from approaches like [Team Topologies](https://teamtopologies.com/) assume a need for fast flow of changes. In 2022 and beyond, it's fair to say that the majority of organizations building and running software-enriched services need fast flow, but there are exceptions. By extension, #fastflow is suitable in most other areas.
+The ideas from approaches like [Team Topologies](https://teamtopologies.com/) assume a need for fast flow of changes. In 2022 and beyond, it's fair to say that the majority of organizations building and running software-enriched services need fast flow, but there are exceptions. 
 
 _How to contribute: add a topic to the bulleted list and a corresponding subheading with explanation. US English spellings, please (we have to pick one option!)._ 
 
@@ -10,6 +10,8 @@ _How to contribute: add a topic to the bulleted list and a corresponding subhead
 - Policy formation
 - Artistic creativity
 - Palliative care
+
+By extension, #fastflow is suitable in most other areas.
 
 ## Research & Development (R&D)
 
