@@ -10,6 +10,7 @@ _How to contribute: add a topic to the bulleted list and a corresponding subhead
 - Policy formation
 - Artistic creativity
 - Palliative care
+- ... and any context where the underlying environment/landscape/technologies/primitives are unstable and changing so unpredictably that platform abstractions are not possible or not helpful 
 
 By extension, #fastflow is suitable in most other areas.
 
@@ -28,3 +29,11 @@ Artisitic creativity generally does not use a linear process but something more 
 ## Palliative care
 
 Ideas from [Team Topologies](https://teamtopologies.com/) are being used in many healthcare contexts, especially emergency care, but [end-of-life care (aka palliative care)](https://www.nhs.uk/conditions/end-of-life-care/what-it-involves-and-when-it-starts/) is possibly less in need of fast flow approaches because the changes needed are minimal. 
+
+## Unstable execution environment preventing useful platform abstractions
+
+Situations where the underlying execution environment (business landscape, technology, primitives, etc.) is changing frequently in unpredictable ways can make it difficult to provide useful, stable abstractions in an X-as-a-Service mode from a platform to other groups.
+
+_Example: development of an autonomous robot for executing tasks in a human environment where the physical hardware platform (chassis, wheels, etc.) is undergoing rapid and transformational development together with rapid and substantial changes to the firmware operating system AND the behavioural features of the robot. In this situation, it is difficult (although not impossible) to make useful platform abstractions that can help fast flow._
+
+This situation can be close to [Cynefin Chaotic](https://en.wikipedia.org/wiki/Cynefin_framework#Chaotic) in terms of te effect on teams building and evolving the different services. A key goal here should be - when possible - to introduce useful platform abstractions to reduce team cognitive load and avoid whole-system change coupling.
